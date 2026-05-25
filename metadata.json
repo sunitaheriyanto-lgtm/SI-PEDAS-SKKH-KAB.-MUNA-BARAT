@@ -1,0 +1,6 @@
+{
+  "name": "SI-PEDAS SKKH Mubar",
+  "description": "Sistem Pengelolaan Data SKKH Terpadu Dinas Peternakan dan Kesehatan Hewan Kabupaten Muna Barat untuk memantau data SKKH, lalu lintas ternak, dan retribusi daerah secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
